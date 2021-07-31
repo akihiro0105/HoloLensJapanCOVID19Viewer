@@ -1,6 +1,8 @@
 # HoloLensJapanCOVID19Viewer
 - HoloLens 2 でコロナワクチン接種状況を可視化するアプリ
 
+![screen](./doc/screen.jpg)
+
 # 利用データ
 ## ワクチン接種データ
 - 新型コロナワクチンの接種状況（一般接種（高齢者含む））
